@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prework</string>
+    <string name="hello_my_name_is_asante_fola_rose_and_i_coded_this_without_the_emulator_working">Hello my name is Asante Fola-Rose and I coded this without the emulator working!</string>
+    <string name="hello_my_name_is_asante_and_i_coded_this_without_an_emulator_because_it_didnt_work_so_here_is_a_stand_say_ora_to_the_stand">Hello my name is Asante and I coded this without an emulator because it didnt work. So here is a stand say ora to the stand.</string>
+    <string name="ora">ORA</string>
+</resources>
